@@ -1,4 +1,4 @@
-package com.example.henryzheng.englishvoicestudy.Common.utils;
+package com.example.henryzheng.englishvoicestudy.M.utils;
 
 import android.app.Activity;
 import android.content.ComponentName;

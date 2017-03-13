@@ -1,4 +1,4 @@
-package com.example.henryzheng.englishvoicestudy.Common.utils;
+package com.example.henryzheng.englishvoicestudy.M.utils;
 
 import android.content.Context;
 import android.view.inputmethod.InputMethodManager;

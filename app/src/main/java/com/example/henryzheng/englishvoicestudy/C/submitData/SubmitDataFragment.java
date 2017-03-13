@@ -8,8 +8,8 @@ import android.util.Log;
 import android.view.View;
 
 import com.example.henryzheng.englishvoicestudy.C.base.BaseFragment;
-import com.example.henryzheng.englishvoicestudy.Common.utils.CCLog;
-import com.example.henryzheng.englishvoicestudy.Common.utils.MySharepreferenceUtil;
+import com.example.henryzheng.englishvoicestudy.M.utils.CCLog;
+import com.example.henryzheng.englishvoicestudy.M.utils.MySharepreferenceUtil;
 import com.example.henryzheng.englishvoicestudy.M.bean.submitData.Word;
 import com.example.henryzheng.englishvoicestudy.R;
 

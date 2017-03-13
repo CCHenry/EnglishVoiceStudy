@@ -1,4 +1,4 @@
-package com.example.henryzheng.englishvoicestudy.Common.utils;
+package com.example.henryzheng.englishvoicestudy.M.utils;
 
 /**
  * Created by henryzheng on 2017/2/15.
