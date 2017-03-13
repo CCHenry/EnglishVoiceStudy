@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="textView0" type="id">false</item>
+    <item name="textView1" type="id">false</item>
+    <item name="textView2" type="id">false</item>
+    <item name="textView3" type="id">false</item>
+    <item name="textView4" type="id">false</item>
+    <item name="textView5" type="id">false</item>
+    <item name="textView6" type="id">false</item>
+    <item name="textView7" type="id">false</item>
+    <item name="imageView0" type="id">false</item>
+    <item name="imageView1" type="id">false</item>
+    <item name="imageView2" type="id">false</item>
+    <item name="imageView3" type="id">false</item>
+    <item name="imageView4" type="id">false</item>
+    <item name="imageView5" type="id">false</item>
+    <item name="imageView6" type="id">false</item>
+    <item name="imageView7" type="id">false</item>
+    <item name="button0" type="id">false</item>
+    <item name="button1" type="id">false</item>
+    <item name="button2" type="id">false</item>
+    <item name="button3" type="id">false</item>
+    <item name="button4" type="id">false</item>
+    <item name="button5" type="id">false</item>
+    <item name="button6" type="id">false</item>
+    <item name="button7" type="id">false</item>
+    <item name="editText0" type="id">false</item>
+    <item name="editText1" type="id">false</item>
+    <item name="editText2" type="id">false</item>
+    <item name="editText3" type="id">false</item>
+    <item name="editText4" type="id">false</item>
+    <item name="editText5" type="id">false</item>
+    <item name="editText6" type="id">false</item>
+    <item name="editText7" type="id">false</item>
+    <item name="linearLayout0" type="id">false</item>
+    <item name="linearLayout1" type="id">false</item>
+    <item name="linearLayout2" type="id">false</item>
+    <item name="linearLayout3" type="id">false</item>
+    <item name="linearLayout4" type="id">false</item>
+    <item name="linearLayout5" type="id">false</item>
+    <item name="linearLayout6" type="id">false</item>
+    <item name="linearLayout7" type="id">false</item>
+    <item name="relativeLayout0" type="id">false</item>
+    <item name="relativeLayout1" type="id">false</item>
+    <item name="relativeLayout2" type="id">false</item>
+    <item name="relativeLayout3" type="id">false</item>
+    <item name="relativeLayout4" type="id">false</item>
+    <item name="relativeLayout5" type="id">false</item>
+    <item name="relativeLayout6" type="id">false</item>
+    <item name="relativeLayout7" type="id">false</item>
+
+    <item name="fragment0" type="id">false</item>
+    <item name="fragment1" type="id">false</item>
+    <item name="fragment2" type="id">false</item>
+    <item name="fragment3" type="id">false</item>
+    <item name="fragment4" type="id">false</item>
+    <item name="fragment5" type="id">false</item>
+    <item name="fragment6" type="id">false</item>
+    <item name="fragment7" type="id">false</item>
+    <item name="listView0" type="id">false</item>
+    <item name="listView1" type="id">false</item>
+    <item name="listView2" type="id">false</item>
+    <item name="listView3" type="id">false</item>
+    <item name="listView4" type="id">false</item>
+    <item name="listView5" type="id">false</item>
+    <item name="listView6" type="id">false</item>
+    <item name="listView7" type="id">false</item>
+
+    <item name="progressBar0" type="id">false</item>
+    <item name="progressBar1" type="id">false</item>
+    <item name="progressBar2" type="id">false</item>
+
+    <item name="recycleView0" type="id">false</item>
+    <item name="recycleView1" type="id">false</item>
+    <item name="recycleView2" type="id">false</item>
+    <item name="recycleView3" type="id">false</item>
+    <item name="recycleView4" type="id">false</item>
+    <item name="recycleView5" type="id">false</item>
+    <item name="recycleView6" type="id">false</item>
+    <item name="recycleView7" type="id">false</item>
+
+    <item name="swipeRefreshLayout0" type="id">false</item>
+    <item name="swipeRefreshLayout1" type="id">false</item>
+    <item name="swipeRefreshLayout2" type="id">false</item>
+
+    <item name="webView0" type="id">false</item>
+
+    <item name="viewPage0" type="id">false</item>
+    <item name="viewPage1" type="id">false</item>
+    <item name="viewPage2" type="id">false</item>
+    <item name="viewPage3" type="id">false</item>
+    <item name="actionBar" type="id">false</item>
+    <item name="actionBar_back" type="id">false</item>
+    <item name="actionBar_back_btn" type="id">false</item>
+    <item name="navigation_view" type="id">false</item>
+
+
+</resources>
